@@ -114,24 +114,24 @@ Add your screenshots here, e.g.:
 
 ### Adding an expense (Postman)
 
-![Add expenses](image.png)
+![Add expenses](public/image.png)
 
 ### Monthly summary response
 
-![alt text](image-1.png)
+![alt text](public/image-1.png)
 
 ### Total Expesnses
 
-![alt text](image-2.png)
+![alt text](public/image-2.png)
 
 ### Total by category
 
-![alt text](image-3.png)
+![alt text](public/image-3.png)
 
 ### Search/Filter By category
 
-![alt text](image-4.png)
+![alt text](public/image-4.png)
 
 ### Test run output
 
-![alt text](image-5.png)
+![alt text](public/image-5.png)

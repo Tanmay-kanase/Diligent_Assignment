@@ -81,4 +81,4 @@ controller/
 
 ---
 
-![alt text](ai.png)
+![alt text](public/ai.png)
